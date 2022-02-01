@@ -16,9 +16,7 @@ body{
     align-items: center;
     width: 100%;
 }
-.inicio-logo-pag img{
-    width: 100px;
-}
+
 .container-login{
     width: 100%;
     height: 50%;
@@ -47,7 +45,7 @@ body{
 .container-login-input label{
     color: white;
     font-family: "luxur";
-    font-size: 1.3em;
+    font-size: 1.6em;
 }
 .container-login-input{
     display: flex;
@@ -73,7 +71,7 @@ body{
 .container-registro-input label{
     color: white;
     font-family: "luxur";
-    font-size: 1.3em;
+    font-size: 1.6em;
 }
 .container-registro-input{
     display: flex;
